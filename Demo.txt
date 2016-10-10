@@ -12,6 +12,7 @@ Modified code in all branch
 
 Change made for all branch
 
+<<<<<<< HEAD
 
 master
 
@@ -21,3 +22,5 @@ addedd few codes
 
 added few code in b1
 
+=======
+>>>>>>> parent of 77bccba... bug fixed in production
