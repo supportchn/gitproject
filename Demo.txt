@@ -17,14 +17,7 @@ master
 
 b1
 
-<<<<<<< HEAD
 addedd few codes
 
-<<<<<<< HEAD
 added few code in b1
-=======
-=======
-added few code in b1
->>>>>>> b1
->>>>>>> f403be1f5d77eae8288c75ca356ccb5e51226930
 
