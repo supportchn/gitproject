@@ -17,6 +17,10 @@ master
 
 b1
 
+<<<<<<< HEAD
 addedd few codes
 
+=======
+added few code in b1
+>>>>>>> b1
 
